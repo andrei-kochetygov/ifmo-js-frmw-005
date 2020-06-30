@@ -2,7 +2,7 @@
     <div id="app" class="app">
         <img alt="Vue logo" src="./assets/logo.png">
         <div>
-            <a class="task-link" target="_blank" href="https://kodaktor.ru/frmw_004">Задание FRMW-004</a>
+            <a class="task-link" target="_blank" href="https://kodaktor.ru/frmw_004">Задание FRMW-005</a>
         </div>
         <div class="aspect-ratio">
             <div class="aspect-ratio__inner">
@@ -99,12 +99,5 @@ export default {
   .task-link {
     display: inline-block;
     margin-bottom: 0.75rem;
-  }
-
-  .icon {
-    display: block;
-    height: 1em;
-    width: 1em;
-    fill: currentColor;
   }
 </style>
