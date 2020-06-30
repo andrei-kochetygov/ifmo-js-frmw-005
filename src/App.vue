@@ -2,7 +2,7 @@
     <div id="app" class="app">
         <img alt="Vue logo" src="./assets/logo.png">
         <div>
-            <a class="task-link" target="_blank" href="https://kodaktor.ru/frmw_004">Задание FRMW-005</a>
+            <a class="task-link" target="_blank" href="https://kodaktor.ru/frmw_005">Задание FRMW-005</a>
         </div>
         <div class="aspect-ratio">
             <div class="aspect-ratio__inner">
