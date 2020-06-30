@@ -1,0 +1,44 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+.card {
+    background: #FAFAFA;
+}
+
+.flex {
+    display: flex;
+}
+
+.bordered {
+    border: 1px solid #E0E0E0;
+}
+
+.bordered-bottom {
+    border-bottom: 1px solid #E0E0E0;
+}
+
+.bordered-left {
+    border-left: 1px solid #E0E0E0;
+}
+
+.rounded {
+    border-radius: 4px;
+}
+
+.divider-flex {
+    background: #E0E0E0;
+    flex-basis: 1px;
+    align-self: stretch;
+    justify-self: stretch;
+}
+
+.grow {
+    flex-grow: 1;
+}
+
+.full-width {
+    width: 100%;
+}
