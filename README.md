@@ -1,4 +1,6 @@
-# 002
+# Задание FRWM-005
+## Создание цветового слайдера на Vue
+Итоговое приложение развернуто на [GitHub Pages](https://flatdragon.github.io/ifmo-js-frmw-005/).
 
 ## Project setup
 ```
